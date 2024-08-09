@@ -1,91 +1,91 @@
-\033[1;34m===============================================
+===============================================
                     XABI
           Développeur Fullstack
-===============================================\033[0m
+===============================================
 
-\033[1;32m📞 Téléphone        : \033[0m06 79 69 45 87
-\033[1;32m✉ Email             : \033[0mxabi.aycaguer@gmail.com
-\033[1;32m🏠 Localisation     : \033[0mPau, 64000
-\033[1;32m🌍 Langues          : \033[0mFrançais (Courant), Anglais (Professionnel), Basque (Courant)
-\033[1;32m🎂 Âge              : \033[0m33 ans
+📞 Téléphone        : 06 79 69 45 87
+✉ Email             : xabi.aycaguer@gmail.com
+🏠 Localisation     : Pau, 64000
+🌍 Langues          : Français (Courant), Anglais (Professionnel), Basque (Courant)
+🎂 Âge              : 33 ans
 
-\033[1;34m===============================================
+===============================================
                      PROFIL
-===============================================\033[0m
+===============================================
 
-\033[1;37mEpistémophile, consciencieux et passionné, je propose aujourd'hui de mettre à votre disposition 
+Epistémophile, consciencieux et passionné, je propose aujourd'hui de mettre à votre disposition 
 mes compétences de développeur full-stack. J'ai eu l'opportunité de travailler, seul et en équipe, 
-sur du back, du front et du devops.\033[0m
+sur du back, du front et du devops.
 
-\033[1;34m===============================================
+===============================================
                   COMPÉTENCES
-===============================================\033[0m
+===============================================
 
-\033[1;33m🔧 Soft Skills :\033[0m
-\033[1;37m- Esprit d’équipe
+🔧 Soft Skills :
+- Esprit d’équipe
 - Sérieux
-- Organisé\033[0m
+- Organisé
 
-\033[1;33m💻 Hard Skills :\033[0m
-\033[1;37m- Ruby / Elixir / Javascript et d'autres
+💻 Hard Skills :
+- Ruby / Elixir / Javascript et d'autres
 - SQL
 - Design Patterns
-- Architecture logiciel\033[0m
+- Architecture logiciel
 
-\033[1;33m🛠️ Technologies :\033[0m
-\033[1;37m- Ruby on Rails, React, JavaScript, HAML, PostgreSQL, Redis, AWS, RSpec, Cucumber, Roda, Sequel, Heroku, Scalingo...\033[0m
+🛠️ Technologies :
+- Ruby on Rails, React, JavaScript, HAML, PostgreSQL, Redis, AWS, RSpec, Cucumber, Roda, Sequel, Heroku, Scalingo...
 
-\033[1;33m🎓 Formation :\033[0m
-\033[1;37m- 2024 : Ecoconception De Service Numérique, GreenIT
+🎓 Formation :
+- 2024 : Ecoconception De Service Numérique, GreenIT
 - 2021 : Licence Responsable Commercial & Marketing, CNPC Sport, Business Campus (major de promotion)
-- 2015 - 2018 : THP - The Hacking Project (Formation en peer-learning et projets, méthode 42)\033[0m
+- 2015 - 2018 : THP - The Hacking Project (Formation en peer-learning et projets, méthode 42)
 
-\033[1;34m===============================================
+===============================================
            EXPÉRIENCES PROFESSIONNELLES
-===============================================\033[0m
+===============================================
 
-\033[1;35m👔 Responsable R&D - Développeur Fullstack (Depuis mai 2024)\033[0m
-\033[1;37mMIPISE
+👔 Responsable R&D - Développeur Fullstack (Depuis mai 2024)
+MIPISE
 - Gestion de 8 développeurs
 - Mise en place et pilotage d’une nouvelle application en Roda
 - Révision des outils de gestion et d’accompagnement
-- Gestion de la production\033[0m
+- Gestion de la production
 
-\033[1;35m👔 Deputy CTO (Depuis mai 2023)\033[0m
-\033[1;37mMIPISE
+👔 Deputy CTO (Depuis mai 2023)
+MIPISE
 - Soutien du CTO dans la gestion et les relectures
 - Réorganisation de la structure
 - Onboarding de nouveaux collaborateurs
-- Mentorat\033[0m
+- Mentorat
 
-\033[1;35m👔 Développeur Fullstack (Depuis 2021)\033[0m
-\033[1;37mMIPISE
+👔 Développeur Fullstack (Depuis 2021)
+MIPISE
 - Développement et architecture de nouvelles fonctionnalités
 - Gestion du support technique
 - Correction de bugs
 - Rédaction de tests
-- Stack : Ruby, RoR, Javascript, React, HAML, PSQL, Redis, AWS, RSpec, Cucumber, Roda, Sequel, Heroku, Scalingo...\033[0m
+- Stack : Ruby, RoR, Javascript, React, HAML, PSQL, Redis, AWS, RSpec, Cucumber, Roda, Sequel, Heroku, Scalingo...
 
-\033[1;35m👔 Développeur Fullstack RoR & React (2021)\033[0m
-\033[1;37mHelJ
+👔 Développeur Fullstack RoR & React (2021)
+HelJ
 - Développement et mise en production d’une application
-- Stack : Ruby, RoR, Javascript, React, Heroku\033[0m
+- Stack : Ruby, RoR, Javascript, React, Heroku
 
-\033[1;35m👔 Développeur Fullstack RubyOnRails (2021)\033[0m
-\033[1;37mFollowNut
+👔 Développeur Fullstack RubyOnRails (2021)
+FollowNut
 - Développement et mise en production d’une application
-- Stack : Ruby, RoR, Javascript, Heroku\033[0m
+- Stack : Ruby, RoR, Javascript, Heroku
 
-\033[1;35m👔 Chargé d’affaires et pro (2019 - 2021)\033[0m
-\033[1;37mTerritoires-Solidaires & LIP\033[0m
+👔 Chargé d’affaires et pro (2019 - 2021)
+Territoires-Solidaires & LIP
 
-\033[1;35m👔 Expert Automobile (2011 - 2015)\033[0m
-\033[1;37mMACADAM\033[0m
+👔 Expert Automobile (2011 - 2015)
+MACADAM
 
-\033[1;34m===============================================
+===============================================
                CENTRES D’INTÉRÊT
-===============================================\033[0m
+===============================================
 
-\033[1;37m- Tir Sportif
+- Tir Sportif
 - Sport
-- Technologies\033[0m
+- Technologies
