@@ -44,7 +44,7 @@ sur du back, du front et du devops.
            EXPÉRIENCES PROFESSIONNELLES
 ===============================================
 
-👔 Responsable R&D - Développeur Fullstack (Depuis mai 2024)
+👔 Responsable R&D (Depuis mai 2024)
 MIPISE
 - Gestion de 8 développeurs
 - Mise en place et pilotage d’une nouvelle application en Roda
